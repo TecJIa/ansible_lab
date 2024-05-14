@@ -40,4 +40,5 @@ ansible-playbook --syntax-check nginx.yml -i staging/hosts
 ![images2](./images/ansible_7.png)
 
 - Этап 5: Проверено, что на nginx доступен сайт по адресу http://192.168.11.150:8080 (на нужном порту)
+  
 ![images2](./images/ansible_8.png)
